@@ -21,7 +21,7 @@ You need to specify:
 How do you deploy it?
 
 Simple.  Just reference it as an image-- it comes through as a normal PNG (if it's correctly configured)
-<img src="images/mapgen.php">
+<img src="mapgen.php">
 
 Anything you need special?
 
